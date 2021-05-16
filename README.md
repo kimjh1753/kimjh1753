@@ -22,4 +22,10 @@ Here are some ideas to get you started:
 </div>
 
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=kimjh1753&show_icons=true)
+![kimjh1753's github stats](https://github-readme-stats.vercel.app/api?username=kimjh1753&show_icons=true)
+
+[![kaggle Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.kaggle.com/kimjh1753)](https://www.kaggle.com/kimjh1753)
+	
+[![dacon Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://dacon.io/myprofile/417356/home)](https://dacon.io/myprofile/417356/home)
+		
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjh1753@gmail.com)](mailto:kimjh1753@gmail.com)
