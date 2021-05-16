@@ -1,8 +1,8 @@
 ### Hi there 👋
 <p>
-    	• I'm studying AI development 👨‍💻 <br>
-    # 다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
-    # 재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다.   
+    • I'm studying AI development. 👨‍💻 <br>
+    • I like doing Hyperparameter tunning. 🎁 <br>
+    • I'm interested in Data Proprecsssing.✨  
 </p>
 
 <!--
