@@ -1,9 +1,9 @@
 ### Hi there 👋
- <p>
-    • I'm studying AI development 👨‍💻 <br>
+<p>
+    </t>• I'm studying AI development 👨‍💻 <br>
     # 다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
     # 재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다.   
- </p>
+</p>
 
 <!--
 **kimjh1753/kimjh1753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
