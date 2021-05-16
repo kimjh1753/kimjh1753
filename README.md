@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 	
 </div>
 
+[![kimjh1753's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/kimjh1753/github-readme-stats)
 
 [![kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kimjh1753)](https://www.kaggle.com/kimjh1753) [![dacon Badge](https://img.shields.io/badge/dacon-ff0000?style=flat-square&logo=dacon&link=https://dacon.io/myprofile/417356/home)](https://dacon.io/myprofile/417356/home) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjh1753@gmail.com)](mailto:kimjh1753@gmail.com)
