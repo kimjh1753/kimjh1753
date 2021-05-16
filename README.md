@@ -1,6 +1,6 @@
 ### Hi there 👋
  <p>
-    •![image](https://user-images.githubusercontent.com/76553237/118403848-611ebf80-b6ab-11eb-93c6-c84093c6c9ec.png) I'm studying AI development 👨‍💻 <br>
+    • I'm studying AI development 👨‍💻 <br>
     # 다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
     # 재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다.   
  </p>
