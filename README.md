@@ -2,7 +2,7 @@
 <p>
     • I'm studying AI development. 👨‍💻 <br>
     • I like doing Hyperparameter tunning. 🎁 <br>
-    • I'm interested in Data Proprecsssing.✨  
+    • I'm interested in Data Pre-processing.✨  
 </p>
 
 <!--
